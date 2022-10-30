@@ -1,0 +1,16 @@
+*{ margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Poppins',sans-serif;
+}
+.container{
+   width: 100%;
+   height: 100vh;
+   padding: 5%;
+   background-image: linear-gradient(rgba(0,8,51,0.9)),(rgba(0,8,51,0.9)), url(../assets/wallpaperflare.com_wallpaper\ \(3\)\ -\ Shortcut.lnk);
+   background-position: center;
+   background-size: cover;
+}
+
+
+
